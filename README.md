@@ -1,2 +1,9 @@
 # Grade_Calculator
-The Grade Calculator is a practical tool designed to help students, teachers, and academic institutions efficiently calculate and manage grades for various assignments, tests, and courses. The software provides a user-friendly interface and customizable features to accurately determine final grades and track academic progress.
+
+The Grade Calculator is a software tool designed to simplify grade calculations and management for students, teachers, and educational institutions. With its user-friendly interface and customizable features, this application makes it easy to calculate final grades, track academic progress, and analyze future performance.
+
+Key Features:
+
+Effortless Grade Calculation: The Grade Calculator streamlines the process of computing grades by allowing users to input assignment scores, test results, and other evaluation components.
+
+Weighted Grading System: Supporting weighted grading, the application considers the varying importance of different assignments and tests towards the final grade.
